@@ -1,5 +1,7 @@
 # Implementation of the matrix_oop.h library.
 
+Русская версия Readme доступна в файле README_RUS.
+
 Matrices are one of the basic data structures in programming, e.g. they are used to represent table values, for computational tasks and neural networks.
 
 ## Matrix operations
